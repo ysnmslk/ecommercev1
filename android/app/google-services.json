@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "404786084802",
+    "project_id": "ysnecommerce-73298",
+    "storage_bucket": "ysnecommerce-73298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404786084802:android:e62cfe53aa9d07fb9ef45b",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404786084802-0in6eva185dkbo89bdropoeqhlovq37t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA17Mk_elu0H2M9fFZ6_aDkcVoHFWGR12Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404786084802-0in6eva185dkbo89bdropoeqhlovq37t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "404786084802-hotrfk8dl0oreh0u58r7r3d4o2ohmjr4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
