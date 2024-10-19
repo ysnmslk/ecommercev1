@@ -7,9 +7,6 @@ import 'package:grock/grock.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:firebase_core/firebase_core.dart';
 
-//Platform  Firebase App Id
-//android   1:404786084802:android:e62cfe53aa9d07fb9ef45b
-// ios       1:404786084802:ios:3ec9fa27091c43969ef45b
 
 void main() async {
   runApp(const ProviderScope(child: MyApp()));
